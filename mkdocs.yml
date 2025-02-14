@@ -18,12 +18,12 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/mathjax.js
-  #- https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 
 ## mathjax for .ipynb
 extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  #- https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 markdown_extensions:
   #- mdx_math
 
