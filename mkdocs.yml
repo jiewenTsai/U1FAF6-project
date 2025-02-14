@@ -5,7 +5,7 @@ site_name: 🍿 POPCORN
 #  - ipynb:
 #    - ch3: ch3.ipynb
 
-theme: readthedocs
+theme: material
 
 ## mathjax for .md
 markdown_extensions:
