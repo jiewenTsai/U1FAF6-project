@@ -4,7 +4,8 @@
 
 討論一些
 
-$$\alpha + \beta \to \gamma$$
+$\alpha + \beta \to \gamma$
+
 
 ```julia
 using Distributions
