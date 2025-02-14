@@ -2,7 +2,7 @@
 
 原來他會自動排目錄！
 
-討論一些
+討論一些 We get a significant effect ($p < .05$)
 
 $\alpha + \beta \to \gamma$
 
