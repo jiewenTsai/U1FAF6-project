@@ -13,6 +13,7 @@ markdown_extensions:
   - admonition # 支持提示块
   - pymdownx.details
   - pymdownx.superfences
+  - mdx_math
 
 ## for mathjax
 #extra_javascript:
