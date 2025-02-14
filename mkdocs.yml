@@ -9,7 +9,6 @@ theme: readthedocs
 
 
 markdown_extensions:
-  - mdx_math  # 支援數學公式
   - pymdownx.arithmatex:  # MathJax支援
       generic: true
 
