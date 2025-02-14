@@ -1,5 +1,4 @@
 mkdocs
 mkdocs-jupyter
 mkdocs-material
-mkdocs-jupyter
 mkdocs-markdownextra
