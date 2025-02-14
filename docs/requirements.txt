@@ -1,4 +1,4 @@
 mkdocs
 mkdocs-jupyter
 mkdocs-material
-mkdocs-markdownextra
+mkdocs-markdownextra-plugin
