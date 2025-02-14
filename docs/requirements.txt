@@ -1,7 +1,4 @@
 mkdocs
 mkdocs-jupyter
 mkdocs-material
-mkdocs-material-extensions
-jupytext
-markdown
-markdown-it-py
+python-markdown-math
