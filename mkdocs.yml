@@ -20,4 +20,5 @@ extra_javascript:
 
 plugins:
   - search
-  - mkdocs-jupyter
+  - mkdocs-jupyter:
+    render_markdown: true
