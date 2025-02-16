@@ -38,13 +38,13 @@ pip install mkdocs
 使用上，就按照官網指示：
 
 ```
-## create a new project
+# create a new project
 mkdocs new my-project
 
-## go into the project's file
+# go into the project's file
 cd my-project
 
-## show in your local computer
+# show in your local computer
 mkdocs serve
 ```
 
@@ -141,3 +141,9 @@ plugins:
 
 1. 把這個資料夾上傳到 Github 上面。
 2. 登入 readthedocs，連結你的 github。選擇這個 repo，然後發佈即可。
+
+
+---
+
+現在，一個簡單而基本可行的介面已經完成了！
+接下來只需要把你的 markdown 和 jupyter 檔案無腦放入 `docs` 資料夾中上傳即可！
