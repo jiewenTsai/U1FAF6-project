@@ -63,7 +63,6 @@ mkdocs serve
 mkdocs
 mkdocs-jupyter
 mkdocs-material
-python-markdown-math
 ```
 
 
@@ -98,8 +97,10 @@ python:
 最後，就是修改 `mkdocs.yml` 中的設定。
 因為本文目標是「最小可行」，因此就是字型什麼幾乎不改，目錄也不改，都用預設值。唯二需要增加的是：
 
-- latex 語法支援
-- jupyter 格式支援
+- latex 語法支援。詳細設定方式請參考 [Material for MkDocs - Math](https://squidfunk.github.io/mkdocs-material/reference/math/)
+- jupyter 格式支援。在 plugins 加入 `- mkdocs-jupyter`。
+
+
 
 例子：
 
@@ -117,8 +118,7 @@ theme: readthedocs
 markdown_extensions:
   - footnotes # 支援腳注
   - admonition # 支援提示區塊
-  - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences # 支援語法上色
   - pymdownx.arithmatex:
       generic: true
 
@@ -132,6 +132,9 @@ plugins:
   - mkdocs-jupyter
 
 ```
+
+
+關於 markdown_extensions 可以寫什麼，可以參考 [Material for MkDocs - Python Markdown Extensions](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#highlight)
 
 ## 部署到 readthedocs
 
