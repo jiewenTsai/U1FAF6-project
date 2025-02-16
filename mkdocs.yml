@@ -12,7 +12,8 @@ theme: readthedocs
 markdown_extensions:
   - footnotes # 支持脚注
   - admonition # 支持提示块
-  - pymdownx.details
+  #- pymdownx.details
+  - pymdownx.highlight
   #- pymdownx.superfences
   - pymdownx.arithmatex:
       generic: true
