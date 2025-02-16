@@ -12,11 +12,11 @@ theme:
   hljs_languages:
     - yaml
     - rust
-    - c++
+    - c
     - python
     - r 
     - julia
-
+  logo: img/favicon.png
 
 ## mathjax for .md
 markdown_extensions:
