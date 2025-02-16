@@ -20,10 +20,10 @@
 在 mac 系統上，用 homebrew 就可以了。
 
 ```
-## general
+# general
 brew install mkdocs
 
-## for material theme
+# for material theme
 brew install mkdocs-material
 ```
 
