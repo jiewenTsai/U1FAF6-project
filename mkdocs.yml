@@ -13,8 +13,8 @@ markdown_extensions:
   - admonition # 支持提示块
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.arithmatex:
-      generic: true
+  #- pymdownx.arithmatex:
+  #    generic: true
 
 extra_javascript:
   - javascripts/mathjax.js
