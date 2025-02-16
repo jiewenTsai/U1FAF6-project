@@ -13,8 +13,8 @@ markdown_extensions:
   - admonition # 支持提示块
   - pymdownx.details
   - pymdownx.superfences
-  #- pymdownx.arithmatex:
-  #    generic: true
+  - pymdownx.arithmatex:
+      generic: true
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -22,8 +22,8 @@ extra_javascript:
 
 
 ## mathjax for .ipynb
-#extra_javascript:
-  #- https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 markdown_extensions:
   - mdx_math
 
