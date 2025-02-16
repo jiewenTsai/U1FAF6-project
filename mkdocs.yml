@@ -7,16 +7,15 @@ site_name: 🍿 POPCORN
 
 theme:     
   name: readthedocs
-  features:
-    - content.code.copy
-  hljs_languages:
-    - yaml
-    - rust
-    - c
-    - python
-    - r 
-    - julia
-  logo: img/favicon.png
+  highlight: false
+  #hljs_languages:
+  #  - yaml
+  #  - rust
+  #  - c
+  #  - python
+  #  - r 
+  #  - julia
+  #logo: img/favicon.png
 
 ## mathjax for .md
 markdown_extensions:
