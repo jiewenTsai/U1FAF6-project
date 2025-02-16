@@ -5,7 +5,9 @@ site_name: 🍿 POPCORN
 #  - ipynb:
 #    - ch3: ch3.ipynb
 
-theme: readthedocs
+theme:     
+  name: readthedocs
+  highlightjs: false  # 關閉預設的程式碼框
 
 
 ## mathjax for .md
