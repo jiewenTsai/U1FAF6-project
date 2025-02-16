@@ -13,10 +13,12 @@ markdown_extensions:
   - footnotes # 支持脚注
   - admonition # 支持提示块
   #- pymdownx.details
-  - pymdownx.highlight
+  - pymdownx.highlight:
+    use_pygements: true
+    auto_title: true
   #- pymdownx.superfences
   - pymdownx.arithmatex:
-      generic: true
+    generic: true
 
 extra_javascript:
   - javascripts/mathjax.js
