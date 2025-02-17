@@ -1,17 +1,23 @@
 
 
-@import url('https://fonts.googleapis.com/css2?family=Cactus+Classical+Serif&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC:wght@400;700&display=swap');
 
   
 @font-face {
-    font-family: "Cactus Classical Serif", serif;
-    font-weight: 500;
+    font-family: "LXGW WenKai TC", serif;
+    font-weight: 400;
     font-style: normal;
 }
   
+@font-face {
+    font-family: "LXGW WenKai TC", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+  
+  
 
-body, h1, h2, h3, h4, h5, h6 {
-    font-family: "Cactus Classical Serif", serif;
+body {
+    font-family: "LXGW WenKai TC", serif;
 }
 
