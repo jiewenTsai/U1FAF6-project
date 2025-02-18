@@ -7,43 +7,43 @@
     font-family: "LXGW WenKai TC", serif;
     font-weight: 400;
     font-style: normal;
-}
+};
   
 @font-face {
     font-family: "LXGW WenKai TC", serif;
     font-weight: 700;
     font-style: normal;
-}
+};
   
 @font-face {
     font-family: "Ubuntu Mono", serif;
     font-weight: 400;
     font-style: normal;
-}
+};
   
 @font-face {
 font-family: "Ubuntu Mono", serif;
 font-weight: 700;
 font-style: normal;
-}
+};
 
 @font-face {
 font-family: "Ubuntu Mono", serif;
 font-weight: 400;
 font-style: italic;
-}
+};
 
 @font-face {
 font-family: "Ubuntu Mono", serif;
 font-weight: 700;
 font-style: italic;
-}
+};
   
 
 body {
     font-family: "LXGW WenKai TC", serif;
-}
+};
 
-code,kbd,pre {
+code {
     font-family: "Ubuntu Mono", monospace;
-} 
+};

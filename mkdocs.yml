@@ -35,3 +35,4 @@ extra_css:
 plugins:
   - search
   - mkdocs-jupyter
+  - with-pdf
