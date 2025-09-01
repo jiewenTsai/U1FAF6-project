@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Welcome to JELLY project!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+- JW
+- 2025-09-01
 
-## Commands
+我想長期維護一個存放整理好的、可公開文件的平台。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+維護一個這樣的平台好處是，讓我定期整理我的想法。
+把一些「抽屜裡的」、筆記軟體裡面的、雜亂的筆記整理一下。
+整理成完整的一份文件。
