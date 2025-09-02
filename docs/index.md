@@ -1,7 +1,10 @@
-# Welcome to JELLY project!
+# Welcome to 🫶🏻 U1FAF6-project!
 
 - JW
 - 2025-09-01
+- 2025-09-02
+
+🫶🏻 U1FAF6-project (heart hands).
 
 我想長期維護一個存放整理好的、可公開文件的平台。
 
